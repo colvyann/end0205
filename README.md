@@ -11,4 +11,4 @@
 - 품격 :wine_glass:
 - 격조 :clinking_glasses:
 - 조랑말 :horse:
-- 움집 :house_with_garden:
+- 말벗 :woman_office_worker:
