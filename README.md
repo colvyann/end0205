@@ -12,3 +12,5 @@
 - 격조 :clinking_glasses:
 - 조랑말 :horse:
 - 말벗 :woman_office_worker:
+
+:ghost: **GAME OVER** :ghost:
