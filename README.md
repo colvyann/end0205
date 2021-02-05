@@ -6,5 +6,5 @@
 - 마굿간
 - 간장
 - 장독대
-
 - 대화 :speech_balloon:
+- 화장품:lipstick:
