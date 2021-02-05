@@ -9,4 +9,5 @@
 - 대화 :speech_balloon:
 - 화장품:lipstick:
 - 품격 :wine_glass:
+- 격조 :clinking_glasses:
 
